@@ -13,7 +13,8 @@ label{
 h1{
     text-align: center;
     color:chocolate;
-    font-size:xx-large;
+    font-size:25px;
+    font-size-adjust: 3.0;
     font:small-caps 100%/200% serif ;
 }
 p{
