@@ -4,14 +4,14 @@ html{
 }
 body{
   background-color: #FAE5D3;
-  margin: 0 auto;
-  border: 5px solid black;
+  margin: 3px solid black;
+  
 }
 label{
     color:coral;
 }
 h1{
     color:chocolate;
-    font-size: 26;
+    font-size: x-large;
     font:small-caps 100%/200% serif ;
 }
