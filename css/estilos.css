@@ -1,0 +1,11 @@
+html{
+ background-color: #FDF2E9 ;
+
+}
+body{
+  background-color: #FAE5D3;
+  margin: 0 auto;
+}
+label, h1{
+    color:coral;
+}
