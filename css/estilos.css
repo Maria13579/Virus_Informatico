@@ -7,6 +7,9 @@ body{
   margin: 0 auto;
   border: 5px solid black;
 }
-label, h1{
+label{
     color:coral;
+}
+h1{
+    color:chocolate;
 }
