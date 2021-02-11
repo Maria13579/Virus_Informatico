@@ -5,6 +5,7 @@ html{
 body{
   background-color: #FAE5D3;
   margin: 0 auto;
+  border 5px solid black;
 }
 label, h1{
     color:coral;
