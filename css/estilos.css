@@ -20,3 +20,61 @@ p{
     color: black;
     text-align: justify;
 }
+#fondo{
+    background-color: #80FFFF;
+    border: solid black;
+}
+
+
+h1
+{
+    color: white;
+    font-family: fantasy;
+    text-align: center;    
+    font-size: 50px;
+    text-shadow: 3px 3px 3px #8000FF;
+}
+
+#estilo1{
+    background-color: #01497E;
+    width: 50%;
+    height: 50%;
+    box-shadow: 7px 7px 12px  #8000FF;
+    border: solid lime;
+}
+
+#contenedor{
+    background-color: #E2E2E2;    
+}
+
+#cabecera{
+    background-color: #9F9F9F; 
+    width: 100%;
+    height: 50px;
+}
+
+#BarraLateral{
+    background-color: #FFCCCC; 
+    float: left;  
+    width: 20%;  
+}
+
+#contenido{
+    background-color: #B7B7FF; 
+    float: left;  
+    width: 80%; 
+}
+
+#pie{
+    clear: both;
+    background-color: #9F9F9F; 
+    width: 100%;
+    height: 20px;
+}
+
+img{
+    float: right;  
+    height: 100px;
+    width: 100px;
+    border: solid black;
+}
