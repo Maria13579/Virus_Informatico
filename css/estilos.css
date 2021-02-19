@@ -6,56 +6,46 @@ p{
     text-align: justify;
 }
 
-
-
 h1
 {
     color: white;
     font-family: fantasy;
     text-align: center;    
     font-size: 50px;
-    text-shadow: 3px 3px 3px #8000FF;
-}
-
-#estilo1{
-    background-color: #01497E;
-    width: 50%;
-    height: 50%;
-    box-shadow: 7px 7px 12px  #8000FF;
-    border: solid lime;
+    text-shadow: 3px 3px 3px #fa7304de;
 }
 
 #contenedor{
-    background-color: #E2E2E2;    
+    background-color: #ffeabc;    
 }
 
 #cabecera{
-    background-color: #9F9F9F; 
+    background-color: #ff7b00; 
     width: 100%;
     height: 50px;
 }
 
 #barralateral{
-    background-color: #FFCCCC; 
+    background-color: #e27948; 
     float: left;  
     width: 20%;  
 }
 
 #contenido{
-    background-color: #B7B7FF; 
+    background-color: #ebc293; 
     float: left;  
     width: 80%; 
 }
 
 #pie{
     clear: both;
-    background-color: #9F9F9F; 
+    background-color: #f37c0d; 
     width: 100%;
     height: 20px;
 }
 
 img{
-    float: right;  
+    float: left;  
     height: 100px;
     width: 100px;
     border: solid black;
