@@ -1,12 +1,6 @@
 label{
     color:coral;
 }
-h1{
-    text-align: center;
-    color:chocolate;
-    font-kerning: none;
-    font:small-caps 100%/200% serif ;
-}
 p{
     color: black;
     text-align: justify;
